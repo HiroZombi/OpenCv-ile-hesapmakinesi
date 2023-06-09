@@ -15,8 +15,14 @@ Bu projemizin amacı kamera ile elimizi tanıtıp, ifade tanımlayıp, hesap mak
 
 Baş parmağımız ve işaret parmağımızı birleştirince "bir tıklama" yapıyor. Sayıları belirlemeden işlem yapmaya çalışırsanız uygulama hata vericektir o yüzden kuralına göre işlemlerinizi yapınız. Bazı işlemlerde sesli komutlar bulunmaktadır. Ekstradan el ifadeleri tanımlanılmıştır. Bunları bulmayı size bırakıyorum :}
 
+Dilerseniz yeni el ifadesi yada mevcut ifadeleri değiştirmek için alta ki görselden destek alabilirsiniz.
+
+![resim 2](images/HandLandmarks.png)
+
 ## Çalıştırırken hata verirse?
 
 Projeyi çalıştırırken hata alırsanız, bunun kaynağı büyük ihtimalle kütüphanelerin sürümü ile python sürümünün çakışmasıdır. Ben bu projeyi yaparken python sürümüm 3.8.3 ve media pipe 0.9.0. 
 Kütüphaneler ile ilgili hala hata alıyor olursanız kütüphanelerin sürümlerini düşürmeyi deneyin.
+
+
 
